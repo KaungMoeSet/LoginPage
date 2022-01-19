@@ -21,7 +21,6 @@
 	Hello Nice to meet you ${name}
 	<a href="/LoginPage/videos.jsp">Videos here</a>
 	
-	
 	<form action="LogOut">
 		<input type="submit" value="Logout">
 	</form>
